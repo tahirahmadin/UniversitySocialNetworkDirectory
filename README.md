@@ -1,4 +1,4 @@
-Completed My social network website of ALigarh Muslim University.
+Developed a social network platform for university students of Aligarh Muslim University.
 
-You can check on www.amuconnect.com
+Later transformed to LastCampus.com
 
